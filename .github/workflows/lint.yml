@@ -27,4 +27,4 @@ jobs:
 
       # Runs make to build hello
       - name: Run a one-line script
-        run: make lint
+        run: make hello
